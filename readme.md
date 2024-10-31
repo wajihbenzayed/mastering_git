@@ -1,4 +1,5 @@
 
-## HELLO GIT!
+# WELCOME TO GIT
 
-add new feature on `feature branch`
+- the changes have been made by `dev-adrian`
+- add new feature on `feature branch`
